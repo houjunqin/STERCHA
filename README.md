@@ -462,7 +462,7 @@ The attached manuscript currently contains placeholder journal metadata. Until t
 
 - The text, figures, and data for the paper are licensed under [CC BY 4.0](https://creativecommons.org).
 - The source code in this repository is licensed under the [MIT License](LICENSE-CODE).
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23383864.svg)](https://doi.org/10.5281/zenodo.23383864)
 ---
 
 ## Acknowledgment of data/model sources
